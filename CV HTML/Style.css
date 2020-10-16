@@ -1,0 +1,21 @@
+*{
+    margin: 12px;
+    padding: 12px;
+}
+
+section img{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 500px;
+    border: 10px solid rgb(21, 228, 255);
+}
+
+
+.garis{
+    margin: 2px;
+    padding: 2px;
+}
+
+p{
+    word-spacing: 10px;
+}
